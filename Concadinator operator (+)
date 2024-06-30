@@ -1,0 +1,3 @@
+a=("Atharva")
+b=("jha")
+print(a+b)
